@@ -8,7 +8,7 @@ Python 3.7 or higher
 
 pip package manager
 
-NVIDIA GPU (Recommended: Tesla T4
+NVIDIA GPU (Recommended: Tesla T4)
 
 CUDA
 
