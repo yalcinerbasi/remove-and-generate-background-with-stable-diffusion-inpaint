@@ -22,6 +22,6 @@ CUDNN libraries
 
 ![](images/generate-screenshot.png)
 
-### Generate background with negative prompt
+### Generate backgorund with negative prompt
 
 ![](images/negative-prompt-screenshot.png)
